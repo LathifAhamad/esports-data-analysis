@@ -111,6 +111,6 @@ python lathif.py
 
 ## 👨‍💻 Author
 
-Mahammad Lathif
+Mahammad Lathif Ahamad
 
 ---
